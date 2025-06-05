@@ -37,7 +37,7 @@ This project is built using:
 
 ## 🔄 How to Get Started
 
-### 1. Watch The Video On Youtube
+### 1. Clone this Repo
 
 ### 2. Set Up Environment Variables
 
@@ -101,8 +101,3 @@ This command will push your latest changes live.
 
 ---
 
-### 📺 Like & Subscribe
-
-[Like & Subscribe To the Channel - https://tinyurl.com/subcribe-to-techwithEmma]
-
-Thank you for being part of this journey, and happy coding! 😊
