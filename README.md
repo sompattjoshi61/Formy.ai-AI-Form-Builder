@@ -1,14 +1,3 @@
-[Like & Subscribe To the Channel - https://tinyurl.com/subcribe-to-techwithEmma]
-
-# AI Form Builder (formy.ai)
-
-### ❤️ Support
-
-If you find this project helpful, please consider giving this repository a ⭐️ on GitHub, and don't forget to **like**, **share**, and **subscribe** to support our journey!  
-https://tinyurl.com/subcribe-to-techwithEmma
-
----
-
 ## 📌 Project Overview
 
 Welcome to the **AI Form Builder** repository! This project leverages cutting-edge tools and frameworks to create a dynamic and efficient form-building platform powered by AI. The AI Form Builder provides a seamless drag-and-drop experience, empowering users to create forms effortlessly while collecting valuable insights.
