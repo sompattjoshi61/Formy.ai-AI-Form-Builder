@@ -97,7 +97,5 @@ When deploying to Vercel, add the same environment variables (`.env` file values
 
 Deploy your application
 
-This command will push your latest changes live.
 
----
 
